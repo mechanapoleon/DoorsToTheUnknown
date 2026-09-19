@@ -1,0 +1,20 @@
+# macOS metadata and debug artifacts
+.DS_Store
+*.dSYM/
+
+# Build outputs
+/DoorsToTheUnknown
+/part-*/part-*
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+/build/
+/bin/
+
+# Local configuration
+.env
+.env.*
+!.env.example
