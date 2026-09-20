@@ -31,6 +31,7 @@ odin run .
 | [02](part-02) | [Part 2](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-2) | A rectangle moving at constant speed |
 | [03](part-03) | [Part 3](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-3) | Keyboard movement and normalized direction |
 | [04](part-04) | [Part 4](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-4) | Window borders with `clamp`, loading and scaling a texture |
+| [05](part-05) | [Part 5](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-5) | Collision rectangle from the sprite's alpha border (`GetImageAlphaBorder`), `clamp` with an offset |
 
 ## Acknowledgments
 
