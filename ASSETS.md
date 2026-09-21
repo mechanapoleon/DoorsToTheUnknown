@@ -4,14 +4,18 @@ The MIT license in this repository covers the source code only.
 
 ## The Last Door
 
-`part-04/assets/devitt.png` comes from the
-*The Last Door – Season One complete assets pack* by
-[The Game Kitchen](https://thegamekitchen.com/), released under the
-[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+The graphics come from *The Last Door – Season One complete assets pack* by
+[The Game Kitchen](https://thegamekitchen.com/) (*The Last Door*,
+[www.thelastdoor.com](http://www.thelastdoor.com)), released under the
+[Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/)
 license.
 
 - Original pack: https://opengameart.org/content/the-last-door-season-one-complete-assets-pack
-- Source file in the pack: `common/Characters/devitt/idle/AnimationExportIDLE/character_animation-idle.png`, renamed to `devitt.png`
+
+| File | Source file in the pack |
+|------|-------------------------|
+| `part-04/assets/devitt.png` | `common/Characters/devitt/idle/AnimationExportIDLE/character_animation-idle.png`, renamed to `devitt.png` |
+| `part-06/assets/hall.png` | `episode1/rooms/Hall/hall-low-res.png`, renamed to `hall.png` |
 
 Please consider supporting The Game Kitchen by playing *The Last Door* on
 [Steam](https://store.steampowered.com/app/284390/The_Last_Door__Collectors_Edition/)
