@@ -32,6 +32,7 @@ odin run .
 | [03](part-03) | [Part 3](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-3) | Keyboard movement and normalized direction |
 | [04](part-04) | [Part 4](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-4) | Window borders with `clamp`, loading and scaling a texture |
 | [05](part-05) | [Part 5](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-5) | Collision rectangle from the sprite's alpha border (`GetImageAlphaBorder`), `clamp` with an offset |
+| [06](part-06) | [Part 6](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-6) | Room background, native resolution scaled by an integer factor, horizontal-only movement |
 
 ## Acknowledgments
 
@@ -41,7 +42,7 @@ in particular his tutorials
 and his book [Understanding the Odin Programming Language](https://odinbook.com/).
 Thank you!
 
-The sprite used from part 4 onwards comes from *The Last Door* by
+The graphics used from part 4 onwards come from *The Last Door* by
 [The Game Kitchen](https://thegamekitchen.com/), see [ASSETS.md](ASSETS.md).
 
 ## License
