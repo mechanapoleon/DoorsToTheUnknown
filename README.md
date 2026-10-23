@@ -31,8 +31,10 @@ odin run .
 | [02](part-02) | [Part 2](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-2) | A rectangle moving at constant speed |
 | [03](part-03) | [Part 3](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-3) | Keyboard movement and normalized direction |
 | [04](part-04) | [Part 4](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-4) | Window borders with `clamp`, loading and scaling a texture |
-| [05](part-05) | [Part 5](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-5) | Collision rectangle from the sprite's alpha border (`GetImageAlphaBorder`), `clamp` with an offset |
-| [06](part-06) | [Part 6](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-6) | Room background, native resolution scaled by an integer factor, horizontal-only movement |
+| [05](part-05) | [Part 5](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-3-6af) | Collision rectangle from the sprite's alpha border (`GetImageAlphaBorder`), `clamp` with an offset |
+| [06](part-06) | [Part 6](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-5) | Room background, native resolution scaled by an integer factor, horizontal-only movement |
+| [07](part-07) | [Part 7](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-7) | Walking animation from 8 frames, idle frame when still, sprite mirrored when facing left |
+| [08](part-08) | [Part 8](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-8) | An NPC defined with a struct, interaction area checked with `CheckCollisionRecs`, tint highlight and timed dialogue with `DrawText` |
 
 ## Acknowledgments
 
