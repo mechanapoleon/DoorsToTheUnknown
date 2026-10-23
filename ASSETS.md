@@ -17,6 +17,7 @@ license.
 | `part-04/assets/devitt.png` | `common/Characters/devitt/idle/AnimationExportIDLE/character_animation-idle.png`, renamed to `devitt.png` |
 | `part-06/assets/hall.png` | `episode1/rooms/Hall/hall-low-res.png`, renamed to `hall.png` |
 | `part-07/assets/devitt_walk_1.png` … `devitt_walk_8.png` | `common/Characters/devitt/walking/AnimationExport/Andando/character_animation-walking1.png` … `character_animation-walking8.png`, renamed to `devitt_walk_1.png` … `devitt_walk_8.png` |
+| `part-08/assets/anthony.png` | `episode2/characters/Anthony/AnthonyRmb/AnthonyRememberIDLE.png`, scaled down from 200×320 to 20×32 (nearest neighbor, no pixel changes) and renamed to `anthony.png` |
 
 Please consider supporting The Game Kitchen by playing *The Last Door* on
 [Steam](https://store.steampowered.com/app/284390/The_Last_Door__Collectors_Edition/)
