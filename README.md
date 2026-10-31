@@ -35,6 +35,7 @@ odin run .
 | [06](part-06) | [Part 6](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-5) | Room background, native resolution scaled by an integer factor, horizontal-only movement |
 | [07](part-07) | [Part 7](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-7) | Walking animation from 8 frames, idle frame when still, sprite mirrored when facing left |
 | [08](part-08) | [Part 8](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-8) | An NPC defined with a struct, interaction area checked with `CheckCollisionRecs`, tint highlight and timed dialogue with `DrawText` |
+| [09](part-09) | [Part 9](https://doorstotheunknown.substack.com/p/costruire-videogiochi-da-zero-9) | A first function that turns an image to grayscale pixel by pixel (`LoadImageColors`), background switched between color and grayscale with the space bar |
 
 ## Acknowledgments
 
@@ -43,6 +44,8 @@ in particular his tutorials
 [Make games using Odin and Raylib](https://zylinski.se/posts/gamedev-for-beginners-using-odin-and-raylib-1/)
 and his book [Understanding the Odin Programming Language](https://odinbook.com/).
 Thank you!
+
+Marco is porting the series to [Zig](https://github.com/marco-secci/zig-engine).
 
 The graphics used from part 4 onwards come from *The Last Door* by
 [The Game Kitchen](https://thegamekitchen.com/), see [ASSETS.md](ASSETS.md).
