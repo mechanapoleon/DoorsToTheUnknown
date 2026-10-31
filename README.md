@@ -45,7 +45,8 @@ in particular his tutorials
 and his book [Understanding the Odin Programming Language](https://odinbook.com/).
 Thank you!
 
-Marco is porting the series to [Zig](https://github.com/marco-secci/zig-engine).
+Giovanni is porting the series to [C](https://github.com/Giomamo/Costruire-videogiochi-da-zero),
+and Marco to [Zig](https://github.com/marco-secci/zig-engine).
 
 The graphics used from part 4 onwards come from *The Last Door* by
 [The Game Kitchen](https://thegamekitchen.com/), see [ASSETS.md](ASSETS.md).
